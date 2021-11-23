@@ -1,5 +1,6 @@
 
 # Face Detection with OpenCV
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 ## Overview
 
 This is a simple face detection program using Python.
